@@ -1,0 +1,8 @@
+ -anumpy>=1.23,<2.0
+scipy>=1.9
+Pillow
+opencv-python
+matplotlib
+torch>=2.1
+torchvision
+ultralytics
